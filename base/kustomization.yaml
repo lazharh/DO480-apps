@@ -1,0 +1,6 @@
+resources:
+- deployment-frontend.yaml
+- deployment.yaml
+- service-frontend.yaml
+- service.yaml
+
